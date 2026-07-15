@@ -1,3 +1,5 @@
+[![2607.XXXXX](https://img.shields.io/badge/arXiv-2607.XXXX-b31b1b.svg)](https://arxiv.org/abs/2607.XXXX) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/alejandroc137/inoisi4d/License.txt) [![GitHub repo stars](https://img.shields.io/github/stars/alejandroc137/inoisi4d?style=social)](https://github.com/alejandroc137/inoisi4d)
+
 # inoisy+
 
 `inoisy+` generates four-dimensional inhomogeneous, anisotropic Gaussian
@@ -16,6 +18,20 @@ The stochastic-field construction follows the SPDE/Matern-field approach used
 by Lee & Gammie (2021), while the semi-analytic source and ray-tracing context
 is connected to the AART paper by Cardenas-Avendano et al. (2023).  See the
 references at the end of this file.
+
+The use of inoisy+ in scientific publications must be properly acknowledged. Please cite:
+
+_______
+Cardenas-Avendano, A., Rubiera-Garcia, D. & Vincent, F. H. "An Off-Equatorial Gaussian Random Field Generator for Modeling Spatiotemporal Variability in Astrophysical Sources." [arXiv:2607.XXXX](https://arxiv.org/abs/) 
+_______
+
+We also request that inoisy+ modifications or extensions leading to a scientific publication be made public as free software. 
+
+<center> <em>Feel free to use images and movies produced with this code (with attribution) for your next presentation! </em> </center>
+
+_______
+![GitHub last commit](https://img.shields.io/github/last-commit//alejandroc137/inoisi4d?style=flat)
+_______
 
 ## Repository Layout
 

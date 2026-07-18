@@ -30,7 +30,7 @@ We also request that inoisy+ modifications or extensions leading to a scientific
 <center> <em>Feel free to use images and movies produced with this code (with attribution) for your next presentation! </em> </center>
 
 _______
-![GitHub last commit](https://img.shields.io/github/last-commit//alejandroc137/inoisi4d?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/alejandroc137/inoisy4d?style=flat)
 _______
 
 ## Repository Layout

@@ -203,9 +203,9 @@ All are optional; missing datasets retain the compiled-in defaults from
 | `normalize_weights` | int | `0` | If `0`, weights localize the raw field.  If `1`, weights interpolate the tensor orientation/scale without changing the total weight as strongly. |
 | `spin` | float | `0.94` | Kerr spin `a`, clamped to `[-0.999999,0.999999]`. |
 | `xi` | float | `1.0` | Angular-momentum normalization in the disk rotation law. |
-| `delta` | float | `0.0` | Angular-momentum deformation parameter in the disk rotation law. |
+| `delta` | float | `3.0` | Angular-momentum deformation parameter in the disk rotation law. |
 | `sigma` | int | `1` | Orbit branch.  Non-negative values are mapped to `+1` prograde; negative values to `-1` retrograde. |
-| `betar` | float | `1.0` | Radial interpolation parameter in the C compiled default.  The value is clamped to `[0,1]`. |
+| `betar` | float | `0.8` | Radial interpolation parameter in the C compiled default.  The value is clamped to `[0,1]`. |
 | `use_plunge` | int | `1` | Enables the optional spherical inner radial branch. |
 | `enforce_timelike` | int | `1` | Clamps `Omega` into the local Kerr timelike interval when needed. |
 | `jet_vpol` | float | `0.5` | Poloidal/radial speed in the simple jet advection model. |

@@ -500,8 +500,8 @@ The parameter writer uses the dictionaries in `tools/write_params_torusjet.py`.
 | `xi` | `1.0` | `1.0` |
 | `delta` | `0.0` | `0.0` |
 | `sigma` | `1` | `1` |
-| `betar` | `0.7` | `0.7` |
-| `use_plunge` | `0` | `1` |
+| `betar` | `0.8` | `0.8` |
+| `use_plunge` | `0` | `0` |
 | `enforce_timelike` | `1` | `1` |
 | `jet_vpol` | `0.5` | `0.5` |
 | `jet_omega` | `0.0` | `0.0` |

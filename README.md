@@ -1,4 +1,4 @@
-[![2607.XXXXX](https://img.shields.io/badge/arXiv-2607.XXXX-b31b1b.svg)](https://arxiv.org/abs/2607.XXXX) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/alejandroc137/inoisi4d/License.txt) [![GitHub repo stars](https://img.shields.io/github/stars/alejandroc137/inoisi4d?style=social)](https://github.com/alejandroc137/inoisi4d)
+[![2607.XXXXX](https://img.shields.io/badge/arXiv-2607.XXXX-b31b1b.svg)](https://arxiv.org/abs/2607.XXXX) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/alejandroc137/inoisy4d/License.txt) [![GitHub repo stars](https://img.shields.io/github/stars/alejandroc137/inoisy4d?style=social)](https://github.com/alejandroc137/inoisy4d)
 
 # inoisy+
 

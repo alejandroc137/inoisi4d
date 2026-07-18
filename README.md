@@ -206,7 +206,7 @@ All are optional; missing datasets retain the compiled-in defaults from
 | `delta` | float | `3.0` | Angular-momentum deformation parameter in the disk rotation law. |
 | `sigma` | int | `1` | Orbit branch.  Non-negative values are mapped to `+1` prograde; negative values to `-1` retrograde. |
 | `betar` | float | `0.8` | Radial interpolation parameter in the C compiled default.  The value is clamped to `[0,1]`. |
-| `use_plunge` | int | `1` | Enables the optional spherical inner radial branch. |
+| `use_plunge` | int | `0` | Enables the optional spherical inner radial branch. |
 | `enforce_timelike` | int | `1` | Clamps `Omega` into the local Kerr timelike interval when needed. |
 | `jet_vpol` | float | `0.5` | Poloidal/radial speed in the simple jet advection model. |
 | `jet_omega` | float | `0.0` | Rigid angular velocity in the simple jet advection model. |
@@ -221,7 +221,7 @@ branch defaults differ:
 | Parameter | C compiled default | `geometry_preview.py` default | `write_params_torusjet.py` default |
 | --- | ---: | ---: | ---: |
 | `betar` | `1.0` | `0.7` | `0.7` |
-| `use_plunge` | `1` | `0` | `1` |
+| `use_plunge` | `0` | `0` | `0` |
 
 For production runs or manuscript figures, prefer an explicit HDF5 parameter
 file and pass it to both sides:
